@@ -1,5 +1,6 @@
 # PS4-torrent-parser
 Python script to grab .torrent files for JB ps4, i collected 2067 torrents within five mins on android phone
+chat to me at- https://t.me/boredmonkeymanschat
 
 <a href="https://ibb.co/dJmC6XRZ"><img src="https://i.ibb.co/dJmC6XRZ/Screenshot-2025-04-13-02-32-39-61-55bef12f624c2b805189a6aa783c400d.jpg" alt="Screenshot-2025-04-13-02-32-39-61-55bef12f624c2b805189a6aa783c400d" border="0"></a>
 
