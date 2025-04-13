@@ -1,6 +1,8 @@
 # PS4-torrent-parser
 Python script to grab .torrent files for JB ps4
 
+<a href="https://ibb.co/qFktvrS6"><img src="https://i.ibb.co/qFktvrS6/Screenshot-2025-04-13-02-26-48-07-99c04817c0de5652397fc8b56c3b3817.jpg" alt="Screenshot-2025-04-13-02-26-48-07-99c04817c0de5652397fc8b56c3b3817" border="0"></a>
+
 # **Torrent Scraper Script for ps4 pkgs**
 
 This Python script automatically scrapes game pages from **Love-Games1.net** and downloads `.torrent` files for PlayStation 4 games. The script collects metadata such as the **Game Name**, **Disk Code**, **Game Version**, and other related details, then logs them into a file while saving the `.torrent` file in the `results/` folder.
