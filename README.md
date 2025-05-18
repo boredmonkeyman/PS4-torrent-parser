@@ -1,4 +1,4 @@
-# PS4-torrent-parser
+ PS4-torrent-parser
 edit: i will re run and update the magnet links when i believe its needed, maybe when more ps4 games have released 
 
 Python script to grab .torrent files for JB ps4, i collected 2067 torrents within five mins on android phone
